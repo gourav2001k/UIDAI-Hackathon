@@ -16,6 +16,10 @@ Aadhar update app for UIDAI hackthon submission
 
 -   Run on Android: `yarn android`
 
+## Using the APK
+
+Find the APK in the releases section of the Repository
+
 ## Presentation & Video
 
 Find the the submission materials:
