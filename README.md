@@ -18,4 +18,7 @@ Aadhar update app for UIDAI hackthon submission
 
 ## Presentation & Video
 
-Find the ppt and video here [Link](https://drive.google.com/drive/folders/1fSpIl4P_3gJttqGQzCe9dKEm4zyCuMhI?usp=sharing)
+Find the the submission materials:
+
+-   Presentation [Link](https://docs.google.com/presentation/d/1UAEPXDYVBbf5vt7we1nszi8OBnn-8ygPdsyER2eUCNQ/edit?usp=sharing)
+-   Video [Link](https://drive.google.com/drive/folders/1fSpIl4P_3gJttqGQzCe9dKEm4zyCuMhI?usp=sharing)
